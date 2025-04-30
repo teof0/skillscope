@@ -6,9 +6,4 @@ matplotlib
 nltk
 scikit-learn
 seaborn
-textacy
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
-spacy
-en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
-spacy[transformers] @ https://github.com/explosion/spacy/releases/download/v3.7.2/spacy-3.7.2-cp311-cp311-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
-
