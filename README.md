@@ -2,6 +2,8 @@
 
 Extracting Skill Demand from Unstructured Job Postings
 
+![CS 370 - NLP Driven Labor Market Intelligence ](https://github.com/user-attachments/assets/9b45dd91-199c-4c3a-8f38-1f5295967c6a)
+
 Final Presentation on Canva: [Canva](https://www.canva.com/design/DAGmIaz44Wc/E_3mHa37KiWmUPhxG3Fyuw/view?utm_content=DAGmIaz44Wc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d80fdf21e)
 
 ### Quick Overview:
