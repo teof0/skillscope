@@ -41,6 +41,8 @@ def clean(text,
     # Remove standalone sequences of specials, matches &# but not #cool
     text = re.sub(r'(?:^|\s)[&#<>{}\[\]+|\\:-]{1,}(?:\s|$)', ' ', text)
 
+    # Remove standalone sequences of hyphens like --- or ==
+    text = re.sub(r'(?:^|\s)[\-=\+]{2,}(?:\s|$)', ' ', text)
 
     # Remove periods, commas, semicolons, colons, quotes, parentheses
     text = re.sub(r'[.,;:"\'()!?]', ' ', text)
