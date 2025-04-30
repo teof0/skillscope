@@ -1,1 +1,12 @@
 streamlit
+spacy>=3.0.0
+pandas
+numpy
+re
+string
+matplotlib
+nltk
+sklearn
+matplotlib.pyplot
+seaborn
+pyplot
