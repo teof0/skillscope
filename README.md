@@ -6,7 +6,7 @@ Extracting Skill Demand from Unstructured Job Postings
 
 Final Presentation on Canva: [Canva](https://www.canva.com/design/DAGmIaz44Wc/E_3mHa37KiWmUPhxG3Fyuw/view?utm_content=DAGmIaz44Wc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d80fdf21e)
 
-### Quick Overview:
+## Quick Overview:
 
 This project uses Natural Language Processing (NLP) and unsupervised machine learning to analyze job descriptions and extract skill-based market intelligence. Using TF-IDF and topic modeling (NMF, SVD, LDA), we identify latent job clusters and high-demand skill sets from over 1,000 postings. The result: a real-time system for HR teams, job seekers, educators, and policymakers to track workforce trends and align with emerging roles.
 
