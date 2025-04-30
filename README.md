@@ -2,7 +2,7 @@
 
 Extracting Skill Demand from Unstructured Job Postings
 
-Final Presentation on Canva: [Canva]([url](https://www.canva.com/design/DAGmIaz44Wc/E_3mHa37KiWmUPhxG3Fyuw/view?utm_content=DAGmIaz44Wc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d80fdf21e)) 
+Final Presentation on Canva: [Canva](https://www.canva.com/design/DAGmIaz44Wc/E_3mHa37KiWmUPhxG3Fyuw/view?utm_content=DAGmIaz44Wc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6d80fdf21e)
 
 ### Quick Overview:
 
