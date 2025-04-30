@@ -8,7 +8,7 @@ import numpy as np
 # Set wide layout for dashboard
 st.set_page_config(layout="wide")
 
-st.title("Welcome to SkillScope!")  # PAGE TITLE
+st.title("Welcome to Skill Scope!")  # PAGE TITLE
 image = Image.open("logo.png")  # OPEN IMAGE
 st.image(image, width=400)  # DISPLAY IMAGE
 
