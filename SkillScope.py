@@ -10,13 +10,10 @@ from nltk.tokenize import word_tokenize
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 
-import spacy
-nlp = spacy.load("en_core_web_sm")
-
 nltk.download('punkt')
 nltk.download('stopwords')
 
-df = pd.read_csv('adzuna_jobs.csv')
+df = pd.read_csv('/workspaces/skillscope/adzuna_jobs.csv')
 
 print(df.shape)
 df.head()
