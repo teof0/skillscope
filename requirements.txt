@@ -5,6 +5,5 @@ numpy
 matplotlib
 nltk
 scikit-learn
-matplotlib.pyplot
 seaborn
 pyplot
