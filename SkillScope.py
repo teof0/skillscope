@@ -8,7 +8,7 @@ import numpy as np
 # Set wide layout for dashboard
 st.set_page_config(layout="wide")
 
-st.markdown("<h1 style='text-align: center;'>Welcome to SkillScope!</h1>", unsafe_allow_html=True)  # PAGE TITLE
+st.title("Welcome to SkillScope!")  # PAGE TITLE
 image = Image.open("logo.png")  # OPEN IMAGE
 st.image(image, width=400)  # DISPLAY IMAGE
 
