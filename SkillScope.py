@@ -9,7 +9,7 @@ import numpy as np
 st.set_page_config(layout="wide")
 
 st.title("Welcome to SkillScope!")  # PAGE TITLE
-image = Image.open("/workspaces/skillscope/logo.png")  # OPEN IMAGE
+image = Image.open("logo.png")  # OPEN IMAGE
 st.image(image, width=400)  # DISPLAY IMAGE
 
 # ---------- HEADER ----------
