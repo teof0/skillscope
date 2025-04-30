@@ -1,5 +1,5 @@
 streamlit
-spacy>=3.0.0
+spacy
 pandas
 numpy
 matplotlib
